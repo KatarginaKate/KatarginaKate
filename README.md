@@ -87,10 +87,10 @@ A web application for promoting eco-friendly shopping bags.
 
 ## 🌍 Languages
 
-- Ukrainian — Native
-- French — B2
-- English — B2
-- Spanish — A2
+![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-blue?style=for-the-badge)
+![English](https://img.shields.io/badge/English-B2-success?style=for-the-badge)
+![French](https://img.shields.io/badge/French-B2-informational?style=for-the-badge)
+![Spanish](https://img.shields.io/badge/Spanish-A2-orange?style=for-the-badge)
 
 ---
 
