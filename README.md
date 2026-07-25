@@ -70,7 +70,7 @@ An e-commerce web application for browsing and purchasing furniture.
 - Responsive design
 - REST API integration
 
-🔗 Repository: https://vitaliifedunyk.github.io/bug-hunters/
+🔗 Repository: https://vitaliifedunyk/bug-hunters/
 
 ---
 
@@ -80,7 +80,7 @@ A web application for promoting eco-friendly shopping bags.
 
 **Tech:** React, TypeScript, REST API
 
-🔗 Repository: https://kozhanserhii.github.io/project-team12/	
+🔗 Repository: https://kozhanserhii/project-team12
 
 ---
 
